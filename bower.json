@@ -1,0 +1,22 @@
+{
+  "name": "angular-todo",
+  "homepage": "https://github.com/cahilld/day02",
+  "authors": [
+    "DesC <cahill.desmond@gmail.com>"
+  ],
+  "description": "Todo List",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.6.6",
+    "angular-route": "^1.6.6"
+  }
+}
